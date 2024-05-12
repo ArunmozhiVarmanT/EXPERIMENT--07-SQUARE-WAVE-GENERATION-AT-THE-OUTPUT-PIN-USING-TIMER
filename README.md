@@ -255,4 +255,4 @@ FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
 
 ## Result :
-A PWM Signal is generated using the following frequency and various duty cycles are simulated ### NAME : MAMTHA I
+A PWM Signal is generated using the following frequency and various duty cycles are simulated
